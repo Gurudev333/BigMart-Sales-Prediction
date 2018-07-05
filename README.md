@@ -13,8 +13,8 @@ then it will search for parameter values which increases the accuracy of model.S
 2.numpy.</br>
 3.sklearn.</br>
 4.matplotlib.</br>
-Before Better understanding i will provide few links which might be useful for better understanding</br>
-1. https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
-2. https://www.analyticsvidhya.com/blog/2015/01/decision-tree-simplified/2/
-3  https://www.datascience.com/resources/notebooks/random-forest-intro
-4  https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+Before Better understanding i will provide few links which might be useful for better understanding  </br>
+1. https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python   </br>
+2. https://www.analyticsvidhya.com/blog/2015/01/decision-tree-simplified/2/  </br>
+3. https://www.datascience.com/resources/notebooks/random-forest-intro  </br>
+4. https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
